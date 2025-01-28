@@ -18,8 +18,8 @@ In this semester, we explored the principles and practices of:
 - Homework Solutions: Step-by-step explanations and solutions for all assignments.
 
 # 🚀 Getting Started
-Clone the Repository
-- git clone https://github.com/username/LinearControlSystems4031.git  
-- cd LinearControlSystems4031
+- Clone the Repository
+git clone https://github.com/username/LinearControlSystems4031.git  
+cd LinearControlSystems4031
 - Explore by Topics: Navigate through the organized folders to find specific topics.
 - Run Simulations: Follow the instructions in project folders to run code for simulations and visualize results.
