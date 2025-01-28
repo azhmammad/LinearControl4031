@@ -18,8 +18,8 @@ In this semester, we explored the principles and practices of:
 - Homework Solutions: Step-by-step explanations and solutions for all assignments.
 
 # 🛠️ Tools and Technologies
-MATLAB/Simulink
-Python (Control Systems Library)
+- MATLAB/Simulink
+- Python (Control Systems Library)
 
 # 🎯 Goals of This Repository
 - To serve as a one-stop resource for anyone studying Linear Control Systems.
