@@ -16,4 +16,10 @@ In this semester, we explored the principles and practices of:
 - Comprehensive Notes: Detailed lecture notes covering all the fundamental and advanced concepts.
 - Practical Projects: Hands-on coding and simulation exercises to reinforce theoretical concepts.
 - Homework Solutions: Step-by-step explanations and solutions for all assignments.
-- Real-World Relevance: Examples of how linear control systems are applied in engineering and industry.
+
+# 🚀 Getting Started
+Clone the Repository
+- git clone https://github.com/username/LinearControlSystems4031.git  
+- cd LinearControlSystems4031
+- Explore by Topics: Navigate through the organized folders to find specific topics.
+- Run Simulations: Follow the instructions in project folders to run code for simulations and visualize results.
