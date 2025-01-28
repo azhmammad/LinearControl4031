@@ -17,9 +17,11 @@ In this semester, we explored the principles and practices of:
 - Practical Projects: Hands-on coding and simulation exercises to reinforce theoretical concepts.
 - Homework Solutions: Step-by-step explanations and solutions for all assignments.
 
-# 🚀 Getting Started
-- Clone the Repository
-git clone https://github.com/username/LinearControlSystems4031.git  
-cd LinearControlSystems4031
-- Explore by Topics: Navigate through the organized folders to find specific topics.
-- Run Simulations: Follow the instructions in project folders to run code for simulations and visualize results.
+# 🛠️ Tools and Technologies
+MATLAB/Simulink
+Python (Control Systems Library)
+
+# 🎯 Goals of This Repository
+- To serve as a one-stop resource for anyone studying Linear Control Systems.
+- To provide clear and concise explanations of complex concepts.
+- To offer practical applications of the theory through well-documented projects and code.
